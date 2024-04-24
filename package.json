@@ -1,0 +1,10 @@
+{
+    "name": "gpts-hackathon-knowledge-base",
+    "private": true,
+    "workspaces": ["packages/*"],
+    "scripts": {
+        "build:slide": "cd packages/slide && npm run build",
+        "build:docs": "cd packages/docs && npm run build",
+        "build:all": "npm run build:docs && npm run build:slide"
+    }
+}

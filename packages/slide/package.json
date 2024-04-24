@@ -1,9 +1,9 @@
 {
-  "name": "slidev",
+  "name": "slide",
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "slidev build",
+    "build": "slidev build --out ../../dist/slide --base /slide/ --emptyOutDir",
     "dev": "slidev --open",
     "export": "slidev export"
   },
