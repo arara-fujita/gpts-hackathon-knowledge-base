@@ -46,7 +46,7 @@ ChatGPTで新しくチャットを始める場合、ここから任意のモデ�
 ChatGPT上で利用する場合は月額20ドル固定なので、意識する必要はありません。
 :::
 
-::: details GPT-4 TurboとGPT-3.4 Turbo
+::: details GPT-4 TurboとGPT-3.5 Turbo
 GPTにはモデル名の末尾に「Turbo」とついたモデルがあります。
 
 これは、より高速に動作するモデルです。
